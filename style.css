@@ -36,9 +36,9 @@ body{
     color: rgb(0, 0, 0);
     cursor: pointer;
     font-size: larger;
-    position: absolute; /* Fixed positioning */
+    position: absolute; 
     right: 10px;
-    top: 50%; /* Center vertically */
+    top: 50%; 
     transform: translateY(-50%);
 }
 .minus{
@@ -46,9 +46,9 @@ body{
     cursor: pointer;
     font-size: larger;
     display: none;
-    position: absolute; /* Fixed positioning */
+    position: absolute;
     right: 10px;
-    top: 50%; /* Center vertically */
+    top: 50%; 
     transform: translateY(-50%);
 }
 .show{
@@ -83,9 +83,9 @@ body{
     color: rgb(0, 0, 0);
     cursor: pointer;
     font-size: larger;
-    position: absolute; /* Fixed positioning */
+    position: absolute; 
     right: 10px;
-    top: 50%; /* Center vertically */
+    top: 50%;
     transform: translateY(-50%);
 }
 .minusone{
@@ -93,9 +93,9 @@ body{
     cursor: pointer;
     font-size: larger;
     display: none;
-    position: absolute; /* Fixed positioning */
+    position: absolute; 
     right: 10px;
-    top: 50%; /* Center vertically */
+    top: 50%; 
     transform: translateY(-50%);
 }
 .box-3{
@@ -127,9 +127,9 @@ body{
     color: rgb(0, 0, 0);
     cursor: pointer;
     font-size: larger;
-    position: absolute; /* Fixed positioning */
+    position: absolute; 
     right: 10px;
-    top: 50%; /* Center vertically */
+    top: 50%; 
     transform: translateY(-50%);
 }
 .minustwo{
@@ -137,8 +137,8 @@ body{
     cursor: pointer;
     font-size: larger;
     display: none;
-    position: absolute; /* Fixed positioning */
+    position: absolute; 
     right: 10px;
-    top: 50%; /* Center vertically */
+    top: 50%; 
     transform: translateY(-50%);
 }
